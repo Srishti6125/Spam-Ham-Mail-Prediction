@@ -31,9 +31,9 @@ By combining text and numeric data into a **hybrid feature matrix**, the system 
 
 ## 📂 Dataset & Source  
 The dataset used contains song metadata, lyrics, and acoustic properties such as:  
-- 🎵 **Song Metadata:** Title, Artist(s), Album, Genre, Emotion  
-- 🎼 **Text Features:** Lyrics (cleaned & preprocessed)  
-- 🎚 **Audio Features:** Tempo, Energy, Loudness, Danceability, Acousticness  
+- 🎵 **Song Metadata:** Title, Artist(s), Album, Genre, Emotion,etc.
+- 🎼 **Text Features:** Lyrics (cleaned & preprocessed),etc.
+- 🎚 **Audio Features:** Tempo, Energy, Loudness, Danceability, Acousticness,etc. 
 
 **Source:** [Kaggle - Spotify/Custom Dataset] *(replace with your dataset link if public)*  
 
@@ -74,6 +74,7 @@ Enter song name: Shivers
 │ Shivers Remix            │ Ed Sheeran,Jessi,SUNMI │
 │ Sleep with the lights on │ The Wanton Bishops     │
 ╘══════════════════════════╧════════════════════════╛
+```
 
 ---
 
